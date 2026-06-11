@@ -29,7 +29,7 @@ webApp de uma calculadora basica com operações soma, subtração, mutiplicaç�
 1. Clone ou baixe este repositório.
 
 ```bash
-git clone https://github.com/cigarraa/myCalculator
+git clone https://github.com/LauraCirino/myCalculator
 ```
 
 2. Abra o arquivo `index.html` em seu navegador.
@@ -44,5 +44,5 @@ git clone https://github.com/cigarraa/myCalculator
 - **Isenção de Garantia:** O software é fornecido "como está", sem garantias de qualquer tipo, explícitas ou implícitas. Os autores não são responsáveis por quaisquer danos decorrentes do uso do software.
 
 ## 👩🏻‍💻 Autor(es)
-- [@LauraCirino](https://github.com/cigarraa)
+- [@LauraCirino](https://github.com/LauraCirino)
 
